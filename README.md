@@ -13,7 +13,7 @@ Water flux partitioning helps separate ecosystem water fluxes (i.e., total evapo
 This tutorial provides a hands-on introduction to:
 - Theoretical foundation of FVS-based flux partitioning  
 - Implementation of FVS in Python  
-- Application to AmeriFlux wetland sites  
+- Application to a AmeriFlux wetland site  
 - Visualization and interpretation of results  
 
 ---
