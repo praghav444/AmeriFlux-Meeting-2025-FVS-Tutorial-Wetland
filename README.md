@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praghav444/AmeriFlux-Meeting-2025-FVS-Tutorial-Wetland/blob/main/AmeriFlux_Meeting2025_Tutorial.ipynb)
 # AmeriFlux Meeting 2025 Tutorial – Water Flux Partitioning using Flux Variance Similarity (FVS) Theory in Wetland Settings
 
 This tutorial introduces methods for **water flux partitioning** using the **Flux Variance Similarity (FVS)** theory, focusing on **wetland ecosystems**. It is designed for participants of the **AmeriFlux Meeting 2025** and includes a step-by-step demonstration using Python and Jupyter Notebook.
@@ -49,7 +50,6 @@ Participants are encouraged to review the following key publications that form t
 You can run the tutorial interactively on **Google Colab** — no installation needed.  
 Simply click the link below:
 
-👉 **[Open in Google Colab](https://colab.research.google.com/github/praghav444/AmeriFlux-Meeting-2025-FVS-Tutorial-Wetland/blob/main/AmeriFlux_Meeting2025_Tutorial.ipynb)**
 👉[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praghav444/AmeriFlux-Meeting-2025-FVS-Tutorial-Wetland/blob/main/AmeriFlux_Meeting2025_Tutorial.ipynb)
 
 ### Steps:
