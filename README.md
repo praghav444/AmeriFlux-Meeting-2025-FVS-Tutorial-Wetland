@@ -6,7 +6,7 @@ The tutorial notebook illustrates how to apply FVS-based approaches to partition
 
 ---
 
-## 🌿 Background and Objective
+## Background and Objective
 
 Water flux partitioning helps separate ecosystem water fluxes (i.e., total evapotranspiration ET) into abiotic (evaporation; E) and biotic (transpiration; T) processes, improving understanding of water use efficiency, ecosystem productivity, and climate feedbacks.
 
