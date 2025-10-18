@@ -2,13 +2,13 @@
 
 This tutorial introduces methods for **water flux partitioning** using the **Flux Variance Similarity (FVS)** theory, focusing on **wetland ecosystems**. It is designed for participants of the **AmeriFlux Meeting 2025** and includes a step-by-step demonstration using Python and Jupyter Notebook.
 
-The tutorial notebook illustrates how to apply FVS-based approaches to partition evapotranspiration (ET) into **evaporation (E)** and **transpiration (T)** components from eddy covariance flux data.
+The tutorial notebook illustrates how to apply FVS-based approaches to partition evapotranspiration (ET) into **evaporation (E)** and **transpiration (T)** components from high frequency measurements of carbon and water eddy covariance fluxes.
 
 ---
 
 ## 🌿 Background and Objective
 
-Flux partitioning helps separate ecosystem water fluxes into physical (evaporation) and biological (transpiration) processes, improving understanding of wetland water use efficiency, ecosystem productivity, and climate feedbacks.
+Water flux partitioning helps separate ecosystem water fluxes (i.e., total evapotranspiration ET) into abiotic (evaporation; E) and biotic (transpiration; T) processes, improving understanding of water use efficiency, ecosystem productivity, and climate feedbacks.
 
 This tutorial provides a hands-on introduction to:
 - Theoretical foundation of FVS-based flux partitioning  
