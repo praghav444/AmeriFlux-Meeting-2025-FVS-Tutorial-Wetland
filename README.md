@@ -50,6 +50,7 @@ You can run the tutorial interactively on **Google Colab** — no installation n
 Simply click the link below:
 
 👉 **[Open in Google Colab](https://colab.research.google.com/github/praghav444/AmeriFlux-Meeting-2025-FVS-Tutorial-Wetland/blob/main/AmeriFlux_Meeting2025_Tutorial.ipynb)**
+👉[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/praghav444/AmeriFlux-Meeting-2025-FVS-Tutorial-Wetland/blob/main/AmeriFlux_Meeting2025_Tutorial.ipynb)
 
 ### Steps:
 1. Click the link above to open the notebook in Colab.  
